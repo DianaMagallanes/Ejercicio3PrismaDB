@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio3prismadb",
+  "version": "1.0.0",
+  "description": "Ejercicio 3 Semana 5 Backend Launch X",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaMagallanes/Ejercicio3PrismaDB.git"
+  },
+  "author": "DianaMagallanes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DianaMagallanes/Ejercicio3PrismaDB/issues"
+  },
+  "homepage": "https://github.com/DianaMagallanes/Ejercicio3PrismaDB#readme"
+}
