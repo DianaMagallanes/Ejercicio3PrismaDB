@@ -25,6 +25,7 @@ Este repo es un proyecto que se conecta a una DB de Postgresql por medio de una 
   <li>ESLint versión 8.15.0 (Para realizar corregir inconsistencias/errores en escritura).</li>
   <li>Express versión 4.18.1 (Como server).</li>
   <li>Prisma versión 3.13.0 (Toolkit para realizar operaciones a DB).</li>
+  <li>CORS versión 2.8.5 (Control de acceso HTTP)</li>
 </ul>
 
 
